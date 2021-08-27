@@ -4,4 +4,4 @@ print("Bibliotechs rule!")
 
 print("Everybody is the best!")
 
-print("This is a line added from VSCode")
+print("This is a new line added on GitHub.com.")
